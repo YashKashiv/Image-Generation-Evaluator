@@ -1,0 +1,23 @@
+[
+  {
+    "image": "outputs\\sample_1764820244930_1.png",
+    "clip_similarity": 0.307395339012146,
+    "alignment_score": 0.653697669506073,
+    "realism_score": 0.5997096281498671,
+    "final_score": 0.6375012570992112
+  },
+  {
+    "image": "outputs\\sample_1764820244930_3.png",
+    "clip_similarity": 0.28878310322761536,
+    "alignment_score": 0.6443915516138077,
+    "realism_score": 0.6192809771746397,
+    "final_score": 0.6368583792820572
+  },
+  {
+    "image": "outputs\\sample_1764820244930_2.png",
+    "clip_similarity": 0.3008386492729187,
+    "alignment_score": 0.6504193246364594,
+    "realism_score": 0.601035350933671,
+    "final_score": 0.6356041325256229
+  }
+]
